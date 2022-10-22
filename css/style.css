@@ -80,12 +80,6 @@ main {
     bottom: 14%;
 }
 
-.login a .rmdir {
-    color: #000;
-    text-decoration: none;
-    border: #000 sollid;
-}
-
 .not-is {
     background: rgb(238, 212, 236);
     border-radius: 7px;
